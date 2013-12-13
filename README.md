@@ -5,8 +5,8 @@
 
 Support
 
-  add, remove and drag and drop components
+* add, remove and drag and drop webcomponents
   
-  editing of attributes
+* editing of attributes
   
-  editing of text
+* editing of text
